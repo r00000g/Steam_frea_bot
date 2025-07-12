@@ -1,1 +1,1 @@
-# Steam_frea_bot
+updated requirements.txt ✔️
